@@ -1,5 +1,7 @@
 The tutorials are hosted by google collaboratory. 
+
 You can open one with the link below.
+
 A google account will be necessary if you don't have one set up already.
 
 Tutorial 1: Time Domain Newtonian Chirp Signal
